@@ -1,7 +1,12 @@
-== README
+# Aplicacion para probar gemas pundit, devise, acts_as_votable y bourbon
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Comandos de inicio
+
+#### Comandos de inicio
+  Para la creacion de la aplicacion e inicializacion de rspec
+
+  > rails new pundit-app
+  > rails g rspec:install
 
 Things you may want to cover:
 
