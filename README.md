@@ -3,6 +3,8 @@
 * Comandos de inicio
 * Tests
 * Devise
+* Pundit
+
 #### Comandos de inicio
   Para la creacion de la aplicacion e inicializacion de rspec
 
@@ -24,7 +26,12 @@
 
   > rails g devise:install
 
-  
+#### Pundit
+
+  Comando para instalar Pundit
+
+  > rails g pundit:install
+
 
 Things you may want to cover:
 
